@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Annabel 👋
 
-<!--
-**jurjenson/jurjenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year Computer Science student at the University of Tartu, Estonia.
+I enjoy building practical software and working in teams.
 
-Here are some ideas to get you started:
+### 🛠️ Tech
+**Languages:** Java, Python
+**Data:** pandas, plotnine, scikit-learn, Jupyter
+**Tools:** Git, IntelliJ IDEA, Jira, Confluence, Bitbucket
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects
+- **[Web App](https://github.com/jurjenson/WAD_HW)** – team web application for the Web Application Development course
+
+### 🌍 Languages
+Estonian (native) · English (C1) · Russian (B2)
+
+📫 jurjensonannabel@gmail.com
